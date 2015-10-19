@@ -1,0 +1,42 @@
+body {
+	background:#363636;
+	color: #363636;
+	font-family: arial;
+}
+
+h1, h2 {
+	color: #D12026;
+}
+
+.wrapper {
+	padding:50px;
+	margin:50px;
+	width:650px;
+	background:white;
+	border:1px solid #363636;
+}
+
+img.logo {
+	width: 150px;
+	height:150px;
+}
+
+img.hero {
+	width: 630px;
+	height:400px;
+	padding: 10px;
+}
+
+a:hover {
+	background: red;
+}
+
+footer {
+	margin-top: 50px;
+	position: center;
+
+}
+
+nav {
+	float: center;
+}
